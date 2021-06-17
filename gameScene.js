@@ -4,6 +4,6 @@ export class GameScene extends Phaser.Scene {
     }
 
     create() {
-        this.add.text(10, 10, "HELLO WORLD, this is wonderful,just wow!");
+        this.add.text(10, 10, "HELLO WORLD, this is wonderful!");
     }
 }
